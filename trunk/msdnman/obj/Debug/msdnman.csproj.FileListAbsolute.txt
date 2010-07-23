@@ -1,0 +1,1 @@
+C:\dev\msdnman\msdnman\msdnman\bin\Debug\msdnman.exe.config
