@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="msdnman.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="msdnman_com_msn_search_soap_MSNSearchService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://soap.search.live.com:80/webservices.asmx</Value>
+    </Setting>
+    <Setting Name="msdnman_com_microsoft_msdn_services_ContentService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://services.msdn.microsoft.com/ContentServices/ContentService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
